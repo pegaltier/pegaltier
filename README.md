@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Pierre-Edouard, I'm a software engineer specialized in web and mobile technologies: Angular and Ionic.
+I'm Pierre-Edouard, I'm a software engineer specialized in web and mobile technologies, mostly Angular and Ionic.
 
 You can find me on those social networks:
 
