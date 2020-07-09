@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Pierre-Edouard, I'm a software engineer specialized in web and mobile technologies: Angular and Ionic.
+
+You can find me on those social networks:
+
+- [Twitter](https://twitter.com/pegaltier)
+- [Stackoverflow](https://stackoverflow.com/users/2835268/pegaltier)
+
 <!--
 **pegaltier/pegaltier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
