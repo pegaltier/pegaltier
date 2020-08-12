@@ -8,6 +8,8 @@ You can find me on those social networks:
 - [Linkedin](https://www.linkedin.com/in/pierre-edouard-galtier-26417058/)
 - [Stackoverflow](https://stackoverflow.com/users/2835268/pegaltier)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pegaltier)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **pegaltier/pegaltier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
