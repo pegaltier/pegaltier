@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Pierre-Edouard, I'm a software engineer specialized in web and mobile technologies, mostly Angular and Ionic.
+I'm Pierre-Edouard, I'm a software engineer specialized in web and mobile technologies, I work mostly with Angular, Ionic and Scully but I'm also interested by Android, Java and PHP. I regularly contribute to open source projects and I commit as much as possible all my find in my cookbook github project called: [awesome-utils-dev](https://github.com/pegaltier/awesome-utils-dev)
 
 You can find me on those social networks:
 
