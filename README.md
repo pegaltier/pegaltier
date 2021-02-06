@@ -18,6 +18,7 @@ Talks:
 
 - [Angular Federated Modules w/ Scully](https://www.youtube.com/watch?v=e9zS2VZiTPE)
 
+Stats:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pegaltier)](https://github.com/anuraghazra/github-readme-stats)
 
