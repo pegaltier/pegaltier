@@ -13,6 +13,8 @@ Contributions:
 - [NgRx](https://github.com/ngrx)
 - [Xplat](https://github.com/nstudio/xplat)
 - [Scully](https://github.com/scullyio/scully)
+- [Module-federation](https://github.com/module-federation/module-federation-examples)
+
 
 Talks:
 
