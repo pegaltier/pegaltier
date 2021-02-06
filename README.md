@@ -8,6 +8,17 @@ You can find me on those social networks:
 - [Linkedin](https://www.linkedin.com/in/pierre-edouard-galtier-26417058/)
 - [Stackoverflow](https://stackoverflow.com/users/2835268/pegaltier)
 
+Contributions:
+
+- [NgRx](https://github.com/ngrx)
+- [Xplat](https://github.com/nstudio/xplat)
+- [Scully](https://github.com/scullyio/scully)
+
+Talks:
+
+- [Angular Federated Modules w/ Scully](https://www.youtube.com/watch?v=e9zS2VZiTPE)
+
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pegaltier)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
