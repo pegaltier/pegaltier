@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Pierre-Edouard, I'm a software engineer specialized in web and mobile technologies, I work mostly with Angular, Ionic and Scully but I'm also interested by Android, Java and PHP. I regularly contribute to open source projects and I commit as much as possible all my find in my cookbook github project called: [awesome-utils-dev](https://github.com/pegaltier/awesome-utils-dev)
+I'm Pierre-Edouard, I'm a software engineer specialized in web and mobile technologies, I work mostly with NodeJS, Angular, Ionic... but I'm also interested by Android, Java and PHP (a bit less now). I try sometimes to contribute to open source projects and I commit as much as possible all my findings in my cookbook github project called: [awesome-utils-dev](https://github.com/pegaltier/awesome-utils-dev)
 
 You can find me on those social networks:
 
@@ -14,11 +14,6 @@ Contributions:
 - [Xplat](https://github.com/nstudio/xplat)
 - [Scully](https://github.com/scullyio/scully)
 - [Module-federation](https://github.com/module-federation/module-federation-examples)
-
-
-Talks:
-
-- [Angular Federated Modules w/ Scully](https://www.youtube.com/watch?v=e9zS2VZiTPE)
 
 Stats:
 
