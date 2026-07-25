@@ -2,11 +2,12 @@
 
 I'm Pierre-Edouard, I'm a software engineer specialized in web and mobile technologies, I work mostly with NodeJS, Angular, Ionic... but I'm also interested by Android, Java and PHP (a bit less now). I try sometimes to contribute to open source projects and I commit as much as possible all my findings in my cookbook github project called: [awesome-utils-dev](https://github.com/pegaltier/awesome-utils-dev)
 
-You can find me on those social networks:
+You can find me social networks:
 
-- [Twitter](https://twitter.com/pegaltier)
-- [Linkedin](https://www.linkedin.com/in/pierre-edouard-galtier-26417058/)
+- [X](https://x.com/pegaltier)
 - [Stackoverflow](https://stackoverflow.com/users/2835268/pegaltier)
+- [Linkedin](https://www.linkedin.com/in/pierre-edouard-galtier-26417058/)
+
 
 Contributions:
 
