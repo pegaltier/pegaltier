@@ -5,8 +5,8 @@ I'm Pierre-Edouard, I'm a software engineer specialized in web and mobile techno
 You can find me social networks:
 
 - [X](https://x.com/pegaltier)
-- [Stackoverflow](https://stackoverflow.com/users/2835268/pegaltier)
 - [Linkedin](https://www.linkedin.com/in/pierre-edouard-galtier-26417058/)
+- [Stackoverflow](https://stackoverflow.com/users/2835268/pegaltier)
 
 
 Contributions:
