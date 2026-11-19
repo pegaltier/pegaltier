@@ -10,11 +10,12 @@ You can find me social networks:
 
 
 Contributions:
+- Recently I have used WebAssembly bindings to port Machine Learning (ML) and Reinforncement Learning (RL) to the JavaScript/Node.JS ecosystem)
+- In the past I have also contributed to the Angular ecosystem: NgRx, Xplat, Scully, Module-federation
 
-- [NgRx](https://github.com/ngrx)
-- [Xplat](https://github.com/nstudio/xplat)
-- [Scully](https://github.com/scullyio/scully)
-- [Module-federation](https://github.com/module-federation/module-federation-examples)
+- Links:
+- https://github.com/pegaltier/renegade-ml-js
+- https://github.com/pegaltier/rl-tools-js
 
 Stats:
 
