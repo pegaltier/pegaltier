@@ -14,6 +14,7 @@ You can find me social networks:
 - In the past I have also contributed to the Angular ecosystem: NgRx, Xplat, Scully, Module-federation
 
 ### Links
+- https://github.com/pegaltier/awesome-utils-dev
 - https://github.com/pegaltier/renegade-ml-js
 - https://github.com/pegaltier/rl-tools-js
 
