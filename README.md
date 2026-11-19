@@ -9,15 +9,15 @@ You can find me social networks:
 - [Stackoverflow](https://stackoverflow.com/users/2835268/pegaltier)
 
 
-Contributions:
+### Contributions
 - Recently I have used WebAssembly bindings to port Machine Learning (ML) and Reinforncement Learning (RL) to the JavaScript/Node.JS ecosystem)
 - In the past I have also contributed to the Angular ecosystem: NgRx, Xplat, Scully, Module-federation
 
-- Links:
+### Links
 - https://github.com/pegaltier/renegade-ml-js
 - https://github.com/pegaltier/rl-tools-js
 
-Stats:
+### Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pegaltier)](https://github.com/anuraghazra/github-readme-stats)
 
