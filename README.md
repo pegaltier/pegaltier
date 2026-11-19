@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Pierre-Edouard, I'm a software engineer specialized in web and mobile technologies, I work mostly with JavaScript, TypeScript, NodeJS, Angular, Ionic... but I'm also interested by Java, Android. I contribute to open source projects and I commit as much as possible all my findings in my cookbook github project called: [awesome-utils-dev](https://github.com/pegaltier/awesome-utils-dev)
+I'm Pierre-Edouard, I'm a software engineer specialized in web and mobile technologies, I work mostly with JavaScript, TypeScript, NodeJS, Angular, Ionic... but I'm also interested by Python, Java, Android. I contribute to open source projects and I commit as much as possible all my findings in my cookbook github project called: [awesome-utils-dev](https://github.com/pegaltier/awesome-utils-dev)
 
 You can find me social networks:
 
